@@ -7,4 +7,5 @@ This repository contains the topic wise selected coding questions from various s
 3. [Leetcode : Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 4. [Leetcode : Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 5. [Leetcode : Triangle](https://leetcode.com/problems/triangle/)
+6. [Leetcode : Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 
