@@ -10,6 +10,10 @@ This repository contains the topic wise selected coding questions from various s
 6. [Leetcode : Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
 
 ## Stacks/Queues
+1. [Leetcode : Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)
+2. [Leetcode : Implement Queues using Stack](https://leetcode.com/problems/implement-queue-using-stacks/)
+3. [Leetcode : Min Stack](https://leetcode.com/problems/min-stack/)
+4. [Leetcode : Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Trees
 
