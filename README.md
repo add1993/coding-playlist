@@ -20,3 +20,6 @@ This repository contains the topic wise selected coding questions from various s
 2. [Leetcode : Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
 
 ## Arrays
+
+## Graphs
+1. [Leetcode : Number of Islands](https://leetcode.com/problems/number-of-islands/)
