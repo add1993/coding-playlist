@@ -17,7 +17,9 @@ This repository contains the topic wise selected coding questions from various s
 
 ## Trees
 1. [Leetcode : n-ary Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)
-2. [Leetcode : Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
+2. [Leetcode : Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+3. [Leetcode : Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/)
+
 
 ## Arrays
 
