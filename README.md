@@ -25,3 +25,4 @@ This repository contains the topic wise selected coding questions from various s
 
 ## Graphs
 1. [Leetcode : Number of Islands](https://leetcode.com/problems/number-of-islands/)
+2. [Leetcode : Island Perimeter](https://leetcode.com/problems/island-perimeter/)
